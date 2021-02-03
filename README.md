@@ -1,7 +1,7 @@
 <p align="center">
  <a href="#-layout">Layout</a> • 
- <a href="#-projeto">Projeto</a> •
- <a href="#-tecnologias">Tecnologias</a> •
+ <a href="#-projeto">Projeto</a> • 
+ <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-licença">Licença</a> • 
 </p>
 
