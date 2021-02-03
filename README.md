@@ -2,7 +2,7 @@
  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp; 
  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;
- <a href="#-licença">Licença</a> • 
+ <a href="#-licença">Licença</a> 
 </p>
 
 ## 🎨 Layout
@@ -19,7 +19,7 @@
 
 <br>
 
-## ⚙️ Tecnologias
+## 🚀 Tecnologias
 
 <p>As seguintes ferramentas foram usadas na construção do projeto: </p>
 
